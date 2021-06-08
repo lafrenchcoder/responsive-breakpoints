@@ -1,0 +1,17 @@
+
+/* ----------- Tablets larger than 768px wide ----------- */
+@media (min-width: 768px) {
+  /*This code sets the background to pink when a tablet*/
+	body {
+    background: #F2AEBB;
+  }
+}
+
+/* ----------- Monitors larger than 1200px wide ----------- */
+@media (min-width:1200px) {
+  /*This code sets the background to darker  blue when a monitor screen*/
+  body {
+    background: #6ACED9;
+  }
+
+}
